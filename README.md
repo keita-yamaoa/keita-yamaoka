@@ -1,8 +1,10 @@
-## My Profile
+# My Profile
 
-#Gole
--Javaシルバー取得
--基本情報取得
+* Gole
+ - Javaシルバー取得
+ - 基本情報取得
+
+
 
 
 
